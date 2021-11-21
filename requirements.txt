@@ -39,7 +39,7 @@ s3transfer==0.1.13
 scipy==1.7.1
 sgmllib3k==1.0.0
 six==1.11.0
-sklearn==0.23.2
+scikit-learn
 smart-open==5.2.1
 summarizer==0.0.7
 tinysegmenter==0.3
